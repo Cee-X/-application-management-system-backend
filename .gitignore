@@ -1,7 +1,14 @@
-DS_Store
-node_modules
+#Ignore macOS system files
+.DS_Store
+
+#Ignore node_modules directory
+node_modules/
+
+#Ignore .env file
 .env
 
+#Ignore .env.local file
+.env.local
 
 
 
